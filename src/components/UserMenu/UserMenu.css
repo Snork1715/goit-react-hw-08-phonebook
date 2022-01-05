@@ -1,0 +1,18 @@
+.avatar-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.avatar {
+  margin-right: 5px;
+  justify-content: center;
+  align-items: center;
+}
+.avatar-welcome {
+  font-weight: 700;
+  margin-right: 12px;
+}
+.avatar-button {
+  margin-left: 5px;
+  border-radius: 25px;
+}

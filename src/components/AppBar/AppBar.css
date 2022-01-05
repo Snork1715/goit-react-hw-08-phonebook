@@ -1,0 +1,13 @@
+.header-app {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1100;
+  background-color: rgb(245, 117, 31);
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
